@@ -1,1 +1,2 @@
-# OBP
+# Osnove baza podataka / Fundamentals of Databases
+In this repository, you will find a collection of SQL code and scripts that I developed for my homework assignment in the Osnove baza podataka class. The goal of this assignment was to deepen my understanding of fundamental database concepts and apply my knowledge by creating a sample database. Specifically, the queries in this repository are designed to perform a variety of tasks, including selecting and filtering data, aggregating data, joining tables, and modifying data using various SQL statements such as SELECT, INSERT, UPDATE, and DELETE. 
